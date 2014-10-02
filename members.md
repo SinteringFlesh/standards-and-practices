@@ -286,6 +286,6 @@ Format:
 | Zach Kirkland | [zkirkland](https://github.com/zkirkland) | I know the basics and want to learn (a lot) more.
 | Zachary Massia | [ZachMassia](https://github.com/ZachMassia) ||
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
-| Zaki Jugbaran | [SinteringFlesh](https://github.com/SinteringFlesh) || Know basic HTML, CSS, Javascript and Wordpress. Looking to learn much more about web development,both front-end and back-end.
+| Zaki Jugbaran | [SinteringFlesh](https://github.com/SinteringFlesh) | Know basic HTML, CSS, Javascript and Wordpress. Looking to learn much more about web development,both front-end and back-end. |
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
